@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/abhiwebdep/static/css/main.a617e044.chunk.css",
+    "main.js": "/abhiwebdep/static/js/main.c3c939cf.chunk.js",
+    "main.js.map": "/abhiwebdep/static/js/main.c3c939cf.chunk.js.map",
+    "runtime-main.js": "/abhiwebdep/static/js/runtime-main.ee448d21.js",
+    "runtime-main.js.map": "/abhiwebdep/static/js/runtime-main.ee448d21.js.map",
+    "static/js/2.ae6fa4d7.chunk.js": "/abhiwebdep/static/js/2.ae6fa4d7.chunk.js",
+    "static/js/2.ae6fa4d7.chunk.js.map": "/abhiwebdep/static/js/2.ae6fa4d7.chunk.js.map",
+    "static/js/3.c8bc972e.chunk.js": "/abhiwebdep/static/js/3.c8bc972e.chunk.js",
+    "static/js/3.c8bc972e.chunk.js.map": "/abhiwebdep/static/js/3.c8bc972e.chunk.js.map",
+    "index.html": "/abhiwebdep/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/abhiwebdep/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.ae6fa4d7.chunk.js.LICENSE.txt": "/abhiwebdep/static/js/2.ae6fa4d7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/abhiwebdep/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee448d21.js",
+    "static/js/2.ae6fa4d7.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.c3c939cf.chunk.js"
+  ]
+}
